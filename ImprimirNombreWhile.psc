@@ -1,4 +1,4 @@
-Algoritmo ImprimirNombreWhile
+Algoritmo v
 	//imprimir su nombre 5 veces 
 	Definir i Como Entero;
 	
